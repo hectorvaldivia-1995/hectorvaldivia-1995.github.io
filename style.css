@@ -1,0 +1,36 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(195,4,4,1) 50%, rgba(255,196,0,1) 100%);
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.img-mapex {
+    border-radius: 70px;
+    box-shadow: 2px 2px 16px #000;
+    }
+
+.img-yamaha {
+    border-radius: 70px;
+    box-shadow: 2px 2px 16px #000;
+    }
+
+.img-pearl {
+    border-radius: 70px;
+    box-shadow: 2px 2px 16px #000;
+    }
+
+.h1border {
+    border: 5px dashed white;
+}
+
+.h1color{
+    color: white;
+    cursor: pointer;
+}
+
+#h1color:hover {
+    color: goldenrod;
+    box-shadow: 2px 2px 10px 5px midnightblue;
+}
